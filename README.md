@@ -14,5 +14,5 @@ Por em prática conceitos de responsividade e recursos do CSS.
 
 ## Link do website 🌎
 
-https://ig-clone-bootcamp.netlify.app/
+https://rafael-vaz.github.io/instagram/
 
