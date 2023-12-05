@@ -14,5 +14,5 @@ Por em prática conceitos de responsividade e recursos do CSS.
 
 ## Link do website 🌎
 
-https://rafael-vaz.github.io/instagram/
+https://rafael-vaz.github.io/login-instagram/
 
